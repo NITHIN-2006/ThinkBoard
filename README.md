@@ -9,8 +9,7 @@ It provides an intuitive interface with drag-and-drop functionality and persiste
 
 - 📌 Create and manage multiple boards  
 - 🗂️ Add, edit, and delete tasks  
-- 🔄 Drag-and-drop tasks between columns  
-- 👤 User authentication (if enabled)  
+- 🔄 Drag-and-drop tasks between columns   
 - ☁️ Persistent data with MongoDB  
 - 🌐 Full-stack MERN architecture (MongoDB, Express, React, Node.js)  
 
@@ -35,4 +34,18 @@ It provides an intuitive interface with drag-and-drop functionality and persiste
 ---
 
 ## 📂 Project Structure
-
+ThinkBoard/
+│
+├── backend/ # Express + MongoDB backend
+│ ├── models/ # Database schemas
+│ ├── routes/ # API routes
+│ ├── controllers/ # Logic for handling requests
+│ ├── server.js # Backend entry point
+│ └── package.json
+│
+├── frontend/ # React frontend
+│ ├── src/ # Components, pages, utilities
+│ ├── public/ # Static assets
+│ └── package.json
+│
+└── README.md
