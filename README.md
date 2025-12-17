@@ -34,7 +34,7 @@ It provides an intuitive interface with drag-and-drop functionality and persiste
 ---
 ```
 ## 📂 Project Structure
-ThinkBoard/
+**ThinkBoard/**
 │
 ├── backend/ # Express + MongoDB backend
 │ ├── models/ # Database schemas
