@@ -30,6 +30,11 @@ It provides an intuitive interface with drag-and-drop functionality and persiste
 **Other**
 - JWT authentication (optional)  
 - Local development setup  
+---
+## Screenshots
+
+![App Screenshot](tb-5.jpeg)
+![App Screenshot](tb-6.jpeg)
 
 ---
 ## 📂 Project Structure
