@@ -32,7 +32,7 @@ It provides an intuitive interface with drag-and-drop functionality and persiste
 - Local development setup  
 
 ---
-
+```
 ## 📂 Project Structure
 ThinkBoard/
 │
@@ -49,3 +49,4 @@ ThinkBoard/
 │ └── package.json
 │
 └── README.md
+```
