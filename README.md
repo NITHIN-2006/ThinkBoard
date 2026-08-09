@@ -1,21 +1,21 @@
-# 📝 ThinkBoard
+#  ThinkBoard
 
 **ThinkBoard** is a **MERN stack web application** that allows users to create and manage boards for organizing tasks, notes, and ideas.  
 It provides an intuitive interface with drag-and-drop functionality and persistent data storage using MongoDB.  
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📌 Create and manage multiple boards  
-- 🗂️ Add, edit, and delete tasks  
-- 🔄 Drag-and-drop tasks between columns   
-- ☁️ Persistent data with MongoDB  
-- 🌐 Full-stack MERN architecture (MongoDB, Express, React, Node.js)  
+-  Create and manage multiple boards  
+-  Add, edit, and delete tasks  
+-  Drag-and-drop tasks between columns   
+-  Persistent data with MongoDB  
+-  Full-stack MERN architecture (MongoDB, Express, React, Node.js)  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 - React (with Hooks / Context API if used)  
@@ -37,7 +37,7 @@ It provides an intuitive interface with drag-and-drop functionality and persiste
 ![App Screenshot](tb-6.jpeg)
 
 ---
-## 📂 Project Structure
+##  Project Structure
 **ThinkBoard/**
 ```
 │
